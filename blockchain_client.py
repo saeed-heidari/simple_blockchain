@@ -9,7 +9,6 @@ usage           : python blockchain_client.py
                   python blockchain_client.py --port 8080
 python_version  : 3.6.1
 Comments        : Wallet generation and transaction signature is based on [1]
-References      : [1] https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb
 '''
 
 from collections import OrderedDict
