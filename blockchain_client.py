@@ -2,10 +2,7 @@
 title           : blockchain_client.py
 description     : A blockchain client implemenation, with the following features
                   - Wallets generation using Public/Private key encryption (based on RSA algorithm)
-                  - Generation of transactions with RSA encryption      
-author          : Adil Moujahid
-date_created    : 20180212
-date_modified   : 20180309
+                  - Generation of transactions with RSA encryption
 version         : 0.3
 usage           : python blockchain_client.py
                   python blockchain_client.py -p 8080
